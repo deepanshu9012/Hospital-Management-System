@@ -26,31 +26,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ALL_Patient_Info.executor": "Run",
-    "Application.Ambulance.executor": "Run",
-    "Application.Department.executor": "Run",
-    "Application.Employee_info.executor": "Run",
-    "Application.Login.executor": "Run",
-    "Application.NEW_PATIENT.executor": "Run",
-    "Application.Reception.executor": "Run",
-    "Application.Room.executor": "Run",
-    "Application.SearchRoom.executor": "Run",
-    "Application.patient_discharge.executor": "Run",
-    "Application.update_patient_details.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Document/ResultSet2xml.jar",
-    "onboarding.tips.debug.path": "F:/project/Hospital management system/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ALL_Patient_Info.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ambulance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Department.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Employee_info.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NEW_PATIENT.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Room.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchRoom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.patient_discharge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.update_patient_details.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Document/ResultSet2xml.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;F:/project/Hospital management system/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.Ambulance">
     <configuration name="Ambulance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hospital.management.system.Ambulance" />
       <module name="Hospital management system" />
